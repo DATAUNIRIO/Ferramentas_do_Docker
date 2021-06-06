@@ -43,3 +43,4 @@ $ sudo systemctl enable docker
 $ docker -v 
 
 
+# https://www.youtube.com/watch?v=4wRiPG9LM3o
