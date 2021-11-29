@@ -1,6 +1,9 @@
 # Ferramentas_do_Docker
 
- Ferramentas_do_Docker
+## CURSO-R plumber + docker
+https://www.youtube.com/watch?v=sAbgRCOlDQs
+https://www.youtube.com/watch?v=A5Um70QBwMk
+
  
 ### https://aboland.ie/Docker.html  
 ### https://jsta.github.io/r-docker-tutorial/
