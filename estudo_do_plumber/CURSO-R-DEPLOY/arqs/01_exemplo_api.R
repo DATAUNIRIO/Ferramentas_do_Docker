@@ -23,3 +23,10 @@ function(){
   plot(1:10)
 }
 
+
+#* Retorna o csv
+#* @serializer csv
+#* @post /base
+function() {
+  mtcars
+}
