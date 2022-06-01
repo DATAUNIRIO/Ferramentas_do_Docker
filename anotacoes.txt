@@ -1,0 +1,24 @@
+From Luiz Henrique to Everyone:  09:46 AM
+Dani, o que seria endpoint?
+From Curso-R to Everyone:  10:56 AM
+https://github.com/curso-r/main-deploy/
+From Victor Toscano to Everyone:  11:07 AM
+http://api.portaldatransparencia.gov.br/swagger-ui.html#/
+é a mesma interface do portal de transparência do gov federal
+From Curso-R to Everyone:  11:28 AM
+https://docs.aws.amazon.com/apigateway/latest/developerguide/rest-api-protect.html
+From Curso-R to Everyone:  11:28 AM
+ducts/connect/
+points
+
+https://www.rstudio.com/products/connect/
+https://cloud.google.com/endpoints
+https://apiumbrella.io/
+https://konghq.com/kong/
+From Curso-R to Everyone:  12:31 PM
+https://labs.play-with-docker.com/
+https://dashboard.render.com/
+https://deploy-render.onrender.com/
+https://github.com/curso-r/main-deploy/
+
+ 

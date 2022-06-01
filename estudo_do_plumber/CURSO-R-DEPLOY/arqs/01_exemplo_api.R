@@ -4,6 +4,7 @@ library(plumber)
 #* @param msg A mensagem para escrever
 #* @get /echo
 function(msg = "") {
+  
   paste0("A mensagem é: '", msg, "'")
 }
 
@@ -30,3 +31,14 @@ function(){
 function() {
   mtcars
 }
+
+#* Retorna o csv
+#* @post /dados
+function(senha) {
+  if (senha!='s10e26a21'){
+    stop("você tem que inserir a senha")
+  }
+  mtcars
+}
+
+
